@@ -1,5 +1,5 @@
 # Food Segmentation & Volume Calculation with Generative-AI
-Stable diffusion + LLMs + Segment Anything
+Segment Anything + LLMs + Stable Diffusion
 
 ## Models
   - https://github.com/jamesjg/foodsam
