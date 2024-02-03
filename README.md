@@ -9,4 +9,5 @@ Stable diffusion + LLMs + Segment Anything
 ## DATASETS
   - https://github.com/LARC-CMU-SMU/FoodSeg103-Benchmark-v1
   - https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/
+  - http://pic2recipe.csail.mit.edu/
 
