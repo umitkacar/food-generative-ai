@@ -17,3 +17,6 @@ Segment Anything + LLMs + Stable Diffusion
 - https://github.com/chungmin99/garfield
 - https://github.com/Anything-of-anything/Anything-3D
 
+https://github.com/lkeab/gaussian-grouping/assets/17427852/d972f552-cd89-4dc0-8953-2cde9a438192
+
+
