@@ -1,4 +1,4 @@
-# food-generative-ai
+# Food Segmentation with Generative-AI
 Stable diffusion + LLMs + Segment Anything
 
 ## MODELS
